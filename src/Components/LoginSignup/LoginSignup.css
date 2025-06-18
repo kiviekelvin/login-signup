@@ -190,3 +190,14 @@
   .custom-radio input[type="radio"] {
     display: none;
   }  
+
+  .done {
+    background: #4c00b4;
+    height: 60px;
+    margin: 30px 62px;
+    color: #f5f5f5;
+    border-radius: 12px;
+    font-size: 20px;
+    font-weight: 700;
+    cursor: pointer;
+  }
